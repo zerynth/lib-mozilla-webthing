@@ -1,0 +1,17 @@
+{
+    "dependencies": {},
+    "description": "Mozilla Web of Things implementation",
+    "fullname": "lib.mozilla.webthing",
+    "git_pointer": "zerynth://zerynth-libs/mozilla-webthing",
+    "info": {
+    },
+    "keywords": [
+        "mozilla",
+        "wot",
+        "web of things"
+    ],
+    "repo": "official",
+    "title": "Mozilla Web of Things",
+    "version": "r2.2.0",
+    "whatsnew": "First Release"
+}

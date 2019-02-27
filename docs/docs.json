@@ -1,0 +1,9 @@
+{
+	"version":"1.0.0",
+	"title":"webthing",
+	"copyright":"Zerynth Team",
+	"files":[
+		["Mozilla WebThing","webthing.py"]
+	]
+}
+
