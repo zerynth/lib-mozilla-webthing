@@ -1,7 +1,11 @@
 ---
 description: Mozilla Web of Things implementation
 fullname: lib.mozilla.webthing
-info: {}
+info: 
+    chip_manufacturer: '-'
+    chip_name: '-'
+    name: Zerynth Mozilla Web of Things Library
+    type: IoT Cloud
 keywords:
 - mozilla
 - wot
